@@ -1,0 +1,20 @@
+/*se modifica tamaño de la imagen*/
+
+.luis {
+    width: 700px;
+    height: 500px;
+}
+
+p {
+    text-align: justify;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+}
